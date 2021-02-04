@@ -9,6 +9,7 @@
     "consoleOptions": [],
     "serviceDiscoveryType": "eureka",
     "dockerRepositoryName": "softtekdata",
-    "dockerPushCommand": "docker push"
+    "dockerPushCommand": "docker push",
+    "jwtSecretKey": "ZDU5OThiZDRhYjE1YWU2YTFhZWNjYmFjYjM2Yzg0OWFkNWRlNjhlZjZhNzY1N2Y4YWRmNTJhNWE3MDk4ZDNlNWEwODU4ZjdkYmM1ZjgyMTU3YWIwNjE1YWE4NzliYjBmOGU0OA=="
   }
 }
